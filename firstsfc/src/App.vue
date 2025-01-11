@@ -13,6 +13,6 @@
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: green;
+    background-color: lightgreen;
   }
 </style>
