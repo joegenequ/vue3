@@ -4,7 +4,8 @@
   <food-item/>
   <food-item/>
   <food-item/>
-   <country/>
+  <comment-form/>
+   
 
 </template>
 
