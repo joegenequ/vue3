@@ -4,7 +4,7 @@
   <food-item/>
   <food-item/>
   <food-item/>
-  
+   <country/>
 
 </template>
 
