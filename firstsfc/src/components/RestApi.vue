@@ -33,12 +33,12 @@
   </div>
 </template>
 
-<script>
+<script setup>
 import { ref, reactive, onMounted, computed } from 'vue';
 import axios from 'axios';
 
-export default {
-  setup() {
+//export default {
+//  setup() {
     const posts = ref([]);
     const loading = ref(false);
     const error = ref(null);
@@ -116,7 +116,7 @@ export default {
 
 
     onMounted(fetchPosts);
-
+/*
     return {
       posts,
       loading,
@@ -129,7 +129,7 @@ export default {
       editingPost,
       editPostData,
       cancelEdit,
-    };
-  },
-};
+    }; */
+ // },
+//};
 </script>
