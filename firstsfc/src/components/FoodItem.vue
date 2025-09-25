@@ -10,7 +10,7 @@
     data() {
       return {
         name: 'Apples',
-        message: 'I like apples'
+        message: 'I like apples and oranges'
       }
     }
   };
